@@ -1,0 +1,243 @@
+﻿exp_no,activity,activity_no,reps,start_index,end_index
+1,Reading a book,1,1,123,7322
+2,Writing on a notebook,2,1,155,7571
+3,Typing,3,1,256,6002
+4,Browsing,4,1,209,6895
+5,Moving head and body,5,1,13,7344
+6,Moving chair,6,1,24,6136
+7,Stand up from sitting,7,1,795,1183
+7,Stand up from sitting,7,2,2115,2400
+7,Stand up from sitting,7,3,3460,3667
+7,Stand up from sitting,7,4,4651,4935
+7,Stand up from sitting,7,5,5815,6074
+7,Stand up from sitting,7,6,6902,7130
+7,Stand up from sitting,7,7,7963,8170
+7,Stand up from sitting,7,8,8972,9308
+7,Stand up from sitting,7,9,10085,10292
+7,Stand up from sitting,7,10,11120,11327
+7,Stand up from sitting,7,11,12051,12310
+7,Sitting down from standing,12,1,1390,1778
+7,Sitting down from standing,12,2,2788,3176
+7,Sitting down from standing,12,3,4030,4392
+7,Sitting down from standing,12,4,5727,5634
+7,Sitting down from standing,12,5,6359,6643
+7,Sitting down from standing,12,6,7394,7730
+7,Sitting down from standing,12,7,8558,8791
+7,Sitting down from standing,12,8,9593,9826
+7,Sitting down from standing,12,9,10654,10990
+7,Sitting down from standing,12,10,11586,11896
+7,Sitting down from standing,12,11,12491,12724
+8,Reading a book,1,1,23,6002
+9,Writing on a notebook,2,1,97,5987
+10,Typing,3,1,833,6304
+11,Browsing,4,1,1003,6703
+12,Moving head and body,5,1,64,7423
+13,Moving chair,6,1,81,7442
+14,Stand up from sitting,7,1,225,471
+14,Stand up from sitting,7,2,1188,1411
+14,Stand up from sitting,7,3,2217,2508
+14,Stand up from sitting,7,4,3202,3403
+14,Stand up from sitting,7,5,4075,4321
+14,Stand up from sitting,7,6,5149,5440
+14,Stand up from sitting,7,7,6111,6402
+14,Stand up from sitting,7,8,7163,7454
+14,Stand up from sitting,7,9,8081,8371
+14,Stand up from sitting,7,10,9200,9446
+14,Stand up from sitting,7,11,10162,10408
+14,Stand up from sitting,7,12,11147,11415
+14,Stand up from sitting,7,13,12042,12333
+14,Sitting down from standing,12,1,683,954
+14,Sitting down from standing,12,2,1743,1966
+14,Sitting down from standing,12,3,2730,2928
+14,Sitting down from standing,12,4,3569,3915
+14,Sitting down from standing,12,5,4605,4902
+14,Sitting down from standing,12,6,5617,5913
+14,Sitting down from standing,12,7,6678,6925
+14,Sitting down from standing,12,8,7615,7813
+14,Sitting down from standing,12,9,8602,8849
+14,Sitting down from standing,12,10,9688,10033
+14,Sitting down from standing,12,11,10675,10922
+14,Sitting down from standing,12,12,11612,11958
+14,Sitting down from standing,12,13,12476,12698
+15,Reading a book,1,1,190,6509
+16,Writing on a notebook,2,1,138,6687
+17,Typing,3,1,263,7091
+18,Browsing,4,1,206,7002
+19,Moving head and body,5,1,104,7256
+20,Moving chair,6,1,141,6380
+21,Stand up from sitting,7,1,185,417
+21,Stand up from sitting,7,2,1110,1342
+21,Stand up from sitting,7,3,1993,2246
+21,Stand up from sitting,7,4,2792,3066
+21,Stand up from sitting,7,5,3612,3822
+21,Stand up from sitting,7,6,4369,4558
+21,Stand up from sitting,7,7,5294,5483
+21,Stand up from sitting,7,8,6135,6282
+21,Stand up from sitting,7,9,6955,7207
+21,Stand up from sitting,7,10,7644,7880
+21,Stand up from sitting,7,11,8510,8763
+21,Stand up from sitting,7,12,9267,9414
+21,Stand up from sitting,7,13,10150,102797
+21,Stand up from sitting,7,14,10907,11159
+21,Stand up from sitting,7,15,11664,11895
+21,Stand up from sitting,7,16,12421,12589
+21,Sitting down from standing,12,1,592,900
+21,Sitting down from standing,12,2,1495,1716
+21,Sitting down from standing,12,3,2377,2619
+21,Sitting down from standing,12,4,3236,3435
+21,Sitting down from standing,12,5,4008,4184
+21,Sitting down from standing,12,6,4735,5066
+21,Sitting down from standing,12,7,5683,5903
+21,Sitting down from standing,12,8,6586,6763
+21,Sitting down from standing,12,9,7314,7534
+21,Sitting down from standing,12,10,8085,8305
+21,Sitting down from standing,12,11,8878,9099
+21,Sitting down from standing,12,12,9496,9870
+21,Sitting down from standing,12,13,10487,10730
+21,Sitting down from standing,12,14,11325,11501
+21,Sitting down from standing,12,15,12008,12251
+21,Sitting down from standing,12,16,12735,12956
+22,Reading a book,1,1,216,6551
+23,Writing on a notebook,2,1,77,6564
+24,Typing,3,1,36,6645
+25,Browsing,4,1,121,7171
+26,Moving head and body,5,1,143,6806
+27,Moving chair,6,1,104,7728
+28,Stand up from sitting,7,1,792,1065
+28,Stand up from sitting,7,2,1784,2081
+28,Stand up from sitting,7,3,2776,2999
+28,Stand up from sitting,7,4,3842,4065
+28,Stand up from sitting,7,5,4809,5057
+28,Stand up from sitting,7,6,5800,6023
+28,Stand up from sitting,7,7,6842,7065
+28,Stand up from sitting,7,8,7734,7982
+28,Stand up from sitting,7,9,8676,8899
+28,Stand up from sitting,7,10,9544,9767
+28,Stand up from sitting,7,11,10536,10734
+28,Stand up from sitting,7,12,11404,11651
+28,Stand up from sitting,7,13,12346,12618
+28,Stand up from sitting,7,14,13288,13511
+28,Sitting down from standing,12,1,1288,1536
+28,Sitting down from standing,12,2,2205,2478
+28,Sitting down from standing,12,3,3123,3495
+28,Sitting down from standing,12,4,4214,4561
+28,Sitting down from standing,12,5,5255,5528
+28,Sitting down from standing,12,6,6197,6643
+28,Sitting down from standing,12,7,7214,7561
+28,Sitting down from standing,12,8,8156,8404
+28,Sitting down from standing,12,9,9073,9321
+28,Sitting down from standing,12,10,9966,10263
+28,Sitting down from standing,12,11,10857,11205
+28,Sitting down from standing,12,12,11800,12147
+28,Sitting down from standing,12,13,12767,13040
+28,Sitting down from standing,12,14,13660,13908
+29,Reading a book,1,1,169,6977
+30,Writing on a notebook,2,1,621,7252
+31,Typing,3,1,95,6998
+32,Browsing,4,1,166,7282
+33,Moving head and body,5,1,148,7255
+34,Moving chair,6,1,161,7717
+35,Stand up from sitting,7,1,571,765
+35,Stand up from sitting,7,2,1211,1386
+35,Stand up from sitting,7,3,1910,2085
+35,Stand up from sitting,7,4,2638,2871
+35,Stand up from sitting,7,5,3366,3541
+35,Stand up from sitting,7,6,4065,4240
+35,Stand up from sitting,7,7,4764,4997
+35,Stand up from sitting,7,8,5492,5667
+35,Stand up from sitting,7,9,6103,6249
+35,Stand up from sitting,7,10,6599,6831
+35,Stand up from sitting,7,11,7210,7414
+35,Stand up from sitting,7,12,7792,7909
+35,Stand up from sitting,7,13,8317,8433
+35,Stand up from sitting,7,14,8841,8986
+35,Stand up from sitting,7,15,9452,9656
+35,Stand up from sitting,7,16,10006,10152
+35,Stand up from sitting,7,17,10501,10617
+35,Stand up from sitting,7,18,11141,11403
+35,Stand up from sitting,7,19,11840,11986
+35,Stand up from sitting,7,20,12393,12510
+35,Sitting down from standing,12,1,860,1095
+35,Sitting down from standing,12,2,1473,1736
+35,Sitting down from standing,12,3,2201,2464
+35,Sitting down from standing,12,4,3017,3162
+35,Sitting down from standing,12,5,3687,3919
+35,Sitting down from standing,12,6,4444,4647
+35,Sitting down from standing,12,7,5113,5346
+35,Sitting down from standing,12,8,5783,5929
+35,Sitting down from standing,12,9,6366,6540
+35,Sitting down from standing,12,10,6919,7094
+35,Sitting down from standing,12,11,7559,7676
+35,Sitting down from standing,12,12,8084,8229
+35,Sitting down from standing,12,13,8550,8724
+35,Sitting down from standing,12,14,9190,9336
+35,Sitting down from standing,12,15,9744,9889
+35,Sitting down from standing,12,16,10239,10413
+35,Sitting down from standing,12,17,10821,10917
+35,Sitting down from standing,12,18,11549,11753
+35,Sitting down from standing,12,19,12102,12277
+35,Sitting down from standing,12,20,12655,12859
+36,Reading a book,1,1,8,5940
+37,Writing on a notebook,2,1,3,5970
+38,Typing,3,1,28,5997
+39,Browsing,4,1,17,5988
+40,Moving head and body,5,1,7,5714
+41,Moving chair,6,1,12,5829
+42,Stand up from sitting,7,1,261,403
+42,Stand up from sitting,7,2,903,1070
+42,Stand up from sitting,7,3,1546,1712
+42,Stand up from sitting,7,4,2283,2474
+42,Stand up from sitting,7,5,2950,3092
+42,Stand up from sitting,7,6,3640,3830
+42,Stand up from sitting,7,7,4354,4544
+42,Stand up from sitting,7,8,5067,5258
+42,Stand up from sitting,7,9,5781,5995
+42,Stand up from sitting,7,10,6448,6709
+42,Stand up from sitting,7,11,7161,7352
+42,Stand up from sitting,7,12,7828,8066
+42,Stand up from sitting,7,13,8613,8756
+42,Stand up from sitting,7,14,9208,9351
+42,Stand up from sitting,7,15,9898,10065
+42,Stand up from sitting,7,16,10612,10802
+42,Stand up from sitting,7,17,11207,11421
+42,Sitting down from standing,12,1,618,856
+42,Sitting down from standing,12,2,1236,1450
+42,Sitting down from standing,12,3,1950,2188
+42,Sitting down from standing,12,4,2664,2831
+42,Sitting down from standing,12,5,3306,3521
+42,Sitting down from standing,12,6,3997,4211
+42,Sitting down from standing,12,7,4734,50250
+42,Sitting down from standing,12,8,5448,5662
+42,Sitting down from standing,12,9,6138,6329
+42,Sitting down from standing,12,10,6828,7042
+42,Sitting down from standing,12,11,7495,7733
+42,Sitting down from standing,12,12,8280,8494
+42,Sitting down from standing,12,13,8875,9089
+42,Sitting down from standing,12,14,9541,9803
+42,Sitting down from standing,12,15,10255,10421
+42,Sitting down from standing,12,16,10921,11088
+42,Sitting down from standing,12,17,11587,11730
+43,Standing,8,1,258,7082
+44,Walking,9,1,48,9621
+45,Running,10,1,4,7341
+46,Taking stairs,11,1,8,2659
+47,Standing,8,1,14,6561
+48,Walking,9,1,3,5890
+49,Running,10,1,8,6872
+50,Taking stairs,11,1,9,4109
+51,Standing,8,1,1,6602
+52,Walking,9,1,19,6727
+53,Running,10,1,16,6616
+54,Taking stairs,11,1,2,2444
+55,Standing,8,1,40,6916
+56,Walking,9,1,46,7158
+57,Running,10,1,28,7140
+58,Taking stairs,11,1,8,3809
+59,Standing,8,1,5,5908
+60,Walking,9,1,6,7730
+61,Running,10,1,16,5530
+62,Taking stairs,11,1,29,3523
+63,Standing,8,1,10,6490
+64,Walking,9,1,15,8709
+65,Running,10,1,6,8562
+66,Taking stairs,11,1,7,3905
